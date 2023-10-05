@@ -1,0 +1,2 @@
+python seinfeldbot.py
+Pause

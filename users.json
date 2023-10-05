@@ -1,0 +1,27 @@
+{
+    "user_database": [
+        {
+            "user_id": 215333071552118784,
+            "user_name": "LarryGarryBarryJerrySeinfeld#8942",
+            "points": 4300,
+            "chars_claimed": [
+                "Babu Bhatt",
+                "Mr. Kruger",
+                "Yev Kassem",
+                "Joe Bookman"
+            ]
+        },
+        {
+            "user_id": 379480123155546133,
+            "user_name": "LarryGarryBarryJerrySeinfeld#9685",
+            "points": 80,
+            "chars_claimed": []
+        },
+        {
+            "user_id": 144242830427029504,
+            "user_name": "kingpine#0",
+            "points": 90,
+            "chars_claimed": []
+        }
+    ]
+}

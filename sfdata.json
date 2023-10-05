@@ -1,0 +1,214 @@
+{
+    "seinfeld_database": [
+        {
+            "char_name": "Jerry Seinfeld",
+            "char_description": "Jerome 'Jerry' Seinfeld is the central character of Seinfeld, named after, based on and played by comedian Jerry Seinfeld.",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/5/55/340px-Jerryseinfe.jpg/revision/latest?cb=20120427201915",
+            "claimed_by": 0,
+            "battle_stat": 9
+        },
+        {
+            "char_name": "Elaine Benes",
+            "char_description": "Elaine Marie Benes is a fictional character on Seinfeld, played by Julia Louis-Dreyfus. She used to date Jerry Seinfeld, and their characters remained close friends.",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/5/57/Elaine.jpg/revision/latest?cb=20110915222502",
+            "claimed_by": 0,
+            "battle_stat": 8
+        },
+        {
+            "char_name": "George Costanza",
+            "char_description": "George is Jerry's neurotic friend. He sometimes lives with his parents, Estelle and Frank Costanza, a bitter couple who are as neurotic as their son. Chances are George's personality traits of being bitter, miserly, selfish, greedy and dishonest come from his childhood background. ",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/7/76/George-costanza.jpg/revision/latest/scale-to-width-down/350?cb=20110406222711",
+            "claimed_by": 0,
+            "battle_stat": 4
+        },
+        {
+            "char_name": "Cosmo Kramer",
+            "char_description": "Kramer has many conflicting personality traits. Described by an art patron as 'a loathsome, offensive brute,'' he is often shallow, callous, and indifferent. On the other hand, he is often caring and friendly, going out of his way to get his friends to help others and to do the right thing even when they don't want to. Kramer is known for his extreme honesty and lack of tact.",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/a/ab/The_kramer.png/revision/latest/scale-to-width-down/200?cb=20110324223110",
+            "claimed_by": 0,
+            "battle_stat": 7
+        },
+        {
+            "char_name": "Babs Kramer",
+            "char_description": "Babs Kramer is Kramer's mother. She is mentioned many times as a drunk, but in 'The Switch', she claims to have been clean for two years.",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/f/f3/Babs.png/revision/latest?cb=20190529202203",
+            "claimed_by": 0,
+            "battle_stat": 5
+        },
+        {
+            "char_name": "Frank Coztanza",
+            "char_description": "Father of George Costanza, Frank once worked as a salesman selling Christian artifacts and that he's fluent in Korean. He also claims to have spoken to Unification Church leader Sun Myung Moon. Frank is an exceptionally good chef and invented Festivus, a holiday born out of his digust towards the commercialism of Christmas.",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/0/02/Frank-Costanza.png/revision/latest?cb=20120111202114",
+            "claimed_by": 0,
+            "battle_stat": 6
+        },
+        {
+            "char_name": "Estelle Costanza",
+            "char_description": "Mother of George Costanza, Estelle spends virtually all her time screeching at Frank and George. She and Frank have a love-hate relationship: they seemingly can't stand each other, and yet stay together out of habit (or because no one else can stand them).",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/1/13/Estelle7.png/revision/latest?cb=20120202152909",
+            "claimed_by": 0,
+            "battle_stat": 5
+        },
+        {
+            "char_name": "Morty Seinfeld",
+            "char_description": "Father of Jerry Seinfeld, Morty made a living selling raincoats under a man named Harry Fleming for 38 years and considers his invention of 'the beltless trench coat' (also called 'the executive') his greatest accomplishment. He hates Velcro because he can't stand the tearing sound it makes when separated.",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/5/56/Dadseinfeld.jpg/revision/latest?cb=20120204122559",
+            "claimed_by": 0,
+            "battle_stat": 5
+        },
+        {
+            "char_name": "Helen Seinfeld",
+            "char_description": "Mother of Jerry Seinfeld, Helen doesn't understand how any could not like her son. She is marreid to Morty Seinfeld and hates Newman just like her son.",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/c/c1/Helen.jpg/revision/latest?cb=20120108151913",
+            "claimed_by": 0,
+            "battle_stat": 6
+        },
+        {
+            "char_name": "Uncle Leo",
+            "char_description": "Helen Seinfelds son and Jerry's uncle, Uncle Leo likes to greet Jerry with a jovial 'Hello!'",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/3/3e/Seinfeldleo.jpg/revision/latest/scale-to-width-down/350?cb=20120126133403",
+            "claimed_by": 0,
+            "battle_stat": 3
+        },
+        {
+            "char_name": "Hand Model Client",
+            "char_description": "A Hand Model Client tells George a frightening story of a hand model who had such beautiful hands that he fell in love with his own hands, causing them to grow deformed due to not being a master of his domain.",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/2/23/5x2_Hand_Model_Client.png/revision/latest?cb=20110507210140",
+            "claimed_by": 0,
+            "battle_stat": 2
+        },
+        {
+            "char_name": "Tony",
+            "char_description": "Tony is a handsome young man who dated Elaine Benes for a short period. Elaine swears her relationship with Tony is in no way superficial. Jerry thinks otherwise and tells her Tony is a mimbo (a male bimbo) with nothing to offer her but his good looks. George has a man-crush on Tony.",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/4/49/Mimbo.jpg/revision/latest?cb=20120424041611",
+            "claimed_by": 0,
+            "battle_stat": 2
+        },
+        {
+            "char_name": "Newman",
+            "char_description": "Newman is a mail carrier who lives at 129 West 81st Street, New York City, the same apartment building as Jerry Seinfeld and Cosmo Kramer. Newman is Jerry's arch nemesis",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/7/7f/Untitled.jpg/revision/latest?cb=20120128125849",
+            "claimed_by": 0,
+            "battle_stat": 5
+        },
+        {
+            "char_name": "Claire's Belly Button",
+            "char_description": "HEEEEELLLLOOOOOOOOO! LALALAAAAAA!",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/c/cb/Claire_%28Voice%29.jpg/revision/latest?cb=20130222230642",
+            "claimed_by": 0,
+            "battle_stat": 7
+        },
+        {
+            "char_name": "Yev Kassem",
+            "char_description": "Yev Kassem is a stone-faced immigrant chef with a thick Stalin-esque moustache, well known throughout the city for his delicious soups. He demanded that all customers in his restaurant follow his meticulous soup-ordering instructions. This leads to Kassem being christened with the less-than-flattering nickname, the Soup Nazi.",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/1/18/Kassem.jpg/revision/latest?cb=20120205075302",
+            "claimed_by": 215333071552118784,
+            "battle_stat": 10
+        },
+        {
+            "char_name": "Jackie Chiles",
+            "char_description": "Kramer's lawyer who doesn't want to have anything to do with him, yet keeps getting roped into his lawsuits just the same.",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/c/cf/Chiles7.jpg/revision/latest?cb=20120420134405",
+            "claimed_by": 0,
+            "battle_stat": 9
+        },
+        {
+            "char_name": "Mr. Kruger",
+            "char_description": "He is the president of Kruger Industrial Smoothing which is best known for a job they did for the Statue of Liberty in which 'they failed to get the green stuff off'. After losing his job at Yankee Stadium, George Costanza works for Kruger despite having an altercation with him in their past.",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/7/73/The_Strike.jpg/revision/latest?cb=20160807014248",
+            "claimed_by": 215333071552118784,
+            "battle_stat": 4
+        },
+        {
+            "char_name": "George Steinbrenner",
+            "char_description": "George Steinbrenner is the owner of the New York Yankees. Steinbrenner hired George Costanza after George yelled at Steinbrenner for his years of bad decision making.",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/a/a9/George-Steinbrenner.jpg/revision/latest?cb=20110404221251",
+            "claimed_by": 0,
+            "battle_stat": 8
+        },
+        {
+            "char_name": "Sue Ellen Mischke",
+            "char_description": "Sue Ellen Mischke is Elaine's nemesis whom she calls the 'bra-less wonder'. Sue Ellen is the heiress to the Oh Henry! candy bar fortune, and has known Elaine since they attended high school together in Maryland.",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/b/b2/SEM.jpg/revision/latest?cb=20120430033915",
+            "claimed_by": 0,
+            "battle_stat": 5
+        },
+        {
+            "char_name": "Noreen",
+            "char_description": "Noreen is a friend of Elaine's who dated Dan, the high talker. Elaine continuously destroyed Noreen's life until Kramer intervened and urged her to return to the military and the two eventually got into a romantic relationship. After not getting her period she feared the worst and told Kramer over the phone, who becomes incredibly happy for having apparently impregnated her and tells everyone about it. She attempted to commit suicide soon after, but Frank Costanza's lawyer stopped her.",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/f/fd/Noreen2.jpg/revision/latest?cb=20120112163746",
+            "claimed_by": 0,
+            "battle_stat": 1
+        },
+        {
+            "char_name": "David Puddy",
+            "char_description": "David Puddy is Jerry's mechanic who has an on-again off-again relationship with Elaine. He's an avid fan of the hockey team The New Jersey Devils and enjoys a good high five. You can catch him saying, 'Yeah, that's right.'",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/7/7c/Puddy.jpg/revision/latest?cb=20120202153937",
+            "claimed_by": 0,
+            "battle_stat": 6
+        },
+        {
+            "char_name": "Izzy Mandelbaum",
+            "char_description": "He has a son named Izzy Mandelbaum, Jr. and father Izzy Mandelbaum, Sr. who were both extremely old; they all work at a family restaurant known as the Magic Pan. Izzy is obsessed with physical fitness.",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/d/d7/Izzy.jpg/revision/latest?cb=20120110170342",
+            "claimed_by": 0,
+            "battle_stat": 2
+        },
+        {
+            "char_name": "Babu Bhatt",
+            "char_description": "Babu Bhatt is an immigrant from Pakistan. Jerry seems to mess up his life at every turn.",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/9/92/Babu.PNG/revision/latest?cb=20110429224415",
+            "claimed_by": 215333071552118784,
+            "battle_stat": 4
+        },
+        {
+            "char_name": "Joe Bookman",
+            "char_description": "Joe Bookman works as a library cop where he deals with library delinquets. Jerry Seinfeld has eluded since his 1971 checkout of Tropic of Cancer. His dedication to his job and coincidental surname are cause for Jerry's dismissive attitude towards him.",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/1/1e/Bookman.jpg/revision/latest?cb=20110502191028",
+            "claimed_by": 215333071552118784,
+            "battle_stat": 7
+        },
+        {
+            "char_name": "Susan Ross",
+            "char_description": "A former executive at NBC, George strikes up a short-lived relationship with Susan when jerry and George pitch a sitcom to NBC. Years later George gets back togerther with Susan and they get engaged only to see Susan pass away from licking toxic wedding invitations that George picked out.",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/9/9d/Susanross.jpg/revision/latest?cb=20120114162508",
+            "claimed_by": 0,
+            "battle_stat": 7
+        },
+        {
+            "char_name": "Henry Ross",
+            "char_description": "Henry Ross is a wealthy socialite, the father of Susan Ross. He is married to Mrs. Ross. He also has a son, Ricky, and a sister, Sara. Henry had an affair with his good friend John Cheever.",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/5/50/Mrross.jpg/revision/latest?cb=20120111161104",
+            "claimed_by": 0,
+            "battle_stat": 4
+        },
+        {
+            "char_name": "Mrs. Ross",
+            "char_description": "Susan Ross's mother, Mrs. Ross is the sarcastic wife of Henry Ross who often makes fun of her husband.",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/9/96/Mrsross.jpg/revision/latest?cb=20120111161553",
+            "claimed_by": 0,
+            "battle_stat": 4
+        },
+        {
+            "char_name": "Poppie",
+            "char_description": "Poppie is an immigrant from Tuscany, Italy. When he was ten years old, his pregnant mother was kidnapped by communists and placed in a slave labor camp where she worked for twelve years. Poppie peed on Jerry's sofa",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/9/95/Pop.jpg/revision/latest?cb=20120112165354",
+            "claimed_by": 0,
+            "battle_stat": 2
+        },
+        {
+            "char_name": "Milos",
+            "char_description": "Milos is a terrible tennis player which Jerry believes undermines his credibility as a salesman. Milos's lack of tennis skills makes him insecure and believe his wife doesn't respect him.",
+            "char_img": "https://i.redd.it/19ihhi416me01.jpg",
+            "claimed_by": 0,
+            "battle_stat": 1
+        },
+        {
+            "char_name": "Bob Sacamano",
+            "char_description": "The illusive friend of Cosmo Kramer. He is the source of bizarre anecdotes, and is known to frequently give esoteric information and harebrained ideas.",
+            "char_img": "https://static.wikia.nocookie.net/seinfeld/images/3/38/UnSEEN.jpg/revision/latest?cb=20120103192428",
+            "claimed_by": 0,
+            "battle_stat": 9
+        }
+    ]
+}
